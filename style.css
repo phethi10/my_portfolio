@@ -137,7 +137,7 @@ a.active, .nav a:hover{
 }
 .notes {
   position: absolute;
-  bottom: 35%;
+  bottom: 28%;
   left: 20%;
   padding: 1.5rem 2rem;
   color: white;
@@ -165,11 +165,15 @@ a.active, .nav a:hover{
 .icons {
   position:absolute;
   bottom:0;
-  left:45%;
+  left:40%;
   padding: 1.5rem 2rem;
   color: white;
+  font-size:30px;
 
   }
+.icons a {
+  color: purple;
+}
 
 .picture{
   position: absolute;
